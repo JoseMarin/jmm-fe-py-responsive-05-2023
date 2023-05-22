@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(218, 235, 191);
+}
+
+#bx1 {
+    background-color: orange;
+    height: 300px;
+}
+
+#fila {
+    background-color: blueviolet;
+    height: 300px;
+}
+
+#cl1 {
+    background-color: red;
+    height: 300px;
+}
+
+#cl2 {
+    background-color: green;
+    height: 300px;
+}
+
+#cl3 {
+    background-color: orange;
+    height: 300px;
+}
